@@ -12,4 +12,4 @@ Available Keycaps Per Row:
 
 Available R4 Spacebar Sizes:
 
-!{Spacebar Sizes](https://github.com/Fooblitzky/DCS_keycaps/blob/master/images/DCS_Keycap_Spacebars.png)
+![Spacebar Sizes](https://github.com/Fooblitzky/DCS_keycaps/blob/master/images/DCS_Keycap_Spacebars.png)
