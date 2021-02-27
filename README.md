@@ -18,5 +18,5 @@ I've tried to make these as accurate as possible, even making them thin DCS inst
 
 So far I have only provided the most popular keycap sizes per row. There are a few more in the Signature Plastics DCS family, but rarely used on modern keyboards so I have choosen to omit them at this time.
 
-### Udate ###
+### Update ###
 Blanks and Gorton Modified Legends (the most common) are available in STEP and OBJ file formats. 
