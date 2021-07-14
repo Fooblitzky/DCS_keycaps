@@ -22,3 +22,5 @@ So far I have only provided the most popular keycap sizes per row. There are a f
 Blanks and Gorton Modified Legends (the most common) are available in STEP and OBJ file formats. 
 
 ![Sample](https://github.com/Fooblitzky/DCS_keycaps/blob/master/images/DCS-WYSE-keycapset.png)
+
+There are a more legend keycaps that are not shown in the sample keyset above.
