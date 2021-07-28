@@ -1,6 +1,10 @@
 # DCS_keycaps
 
 3D Models for rendering the DCS keycap profile.
+Blanks and Gorton Modified Legends (the most common) are available in STEP and OBJ file formats.
+
+### Update ###
+July 28th, 2021: #Download again!# Fixed all STEP and OBJ Gorton Modified files with the wrong geometry. (sorry about that) Added many more keycaps and R1 Re-legendables.
 
 ### Row Profiles:
 
@@ -18,8 +22,12 @@ I've tried to make these as accurate as possible, even making them thin DCS inst
 
 So far I have only provided the most popular keycap sizes per row. There are a few more in the Signature Plastics DCS family, but rarely used on modern keyboards so I have choosen to omit them at this time.
 
-### Update ###
-Blanks and Gorton Modified Legends (the most common) are available in STEP and OBJ file formats. 
+### Available Keycap Legends Per Row: ###
+
+![Row 1](https://github.com/Fooblitzky/DCS_keycaps/blob/master/images/DCS_Legends_Row_1.png)
+![Row 2](https://github.com/Fooblitzky/DCS_keycaps/blob/master/images/DCS_Legends_Row_2.png)
+![Row 3](https://github.com/Fooblitzky/DCS_keycaps/blob/master/images/DCS_Legends_Row_3.png)
+![Row 4](https://github.com/Fooblitzky/DCS_keycaps/blob/master/images/DCS_Legends_Row_4.png)
 
 ![Sample](https://github.com/Fooblitzky/DCS_keycaps/blob/master/images/DCS-WYSE-keycapset.png)
 
