@@ -1,1 +1,0 @@
-Gorton Modified Legends
