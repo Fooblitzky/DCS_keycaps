@@ -6,7 +6,7 @@ Blank DCS and Gorton Modified Legends (the most common) are available in STEP an
 
 ### Updates: ###
 #### August 19th, 2021: ####
-**Download again!** Made ALL keycaps more accurate. Added more keycaps with legends. 
+**Download again!** Made ALL keycaps more accurate for final version. (The only new updates from now on would be more legends or special keys.) Also added more keycaps with legends. 
 
 #### July 28th, 2021: ####
 Fixed all STEP and OBJ Gorton Modified files uploaded with the wrong geometry. (sorry about that) Added many more keycaps and R1 Re-legendables.
