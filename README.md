@@ -5,6 +5,11 @@
 Blank DCS and Gorton Modified Legends (the most common) are available in STEP and OBJ file formats.
 
 ### Updates: ###
+
+#### October 15th, 2021: ####
+Added a selection of Norde/International legend keycaps and some for 40% keyboards. 
+Added R1-R4 relegendable keycaps. (These are just approximate until I have samples on hand).
+
 #### August 19th, 2021: ####
 **Download again!** Made ALL keycaps more accurate for final version. (The only new updates from now on would be more legends or special keys.) Also added more keycaps with legends. 
 
