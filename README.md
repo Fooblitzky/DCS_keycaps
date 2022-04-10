@@ -7,10 +7,10 @@ Blank DCS and Gorton Modified Legends (the most common) are available in STEP an
 ### Updates: ###
 
 #### April 9th, 2022: ####
-Added extra large icons: Enter (row 3), Tab (row 2), and Shift (row 4) legends.<br/>
-Added Row 1 Equals legend.<br/>
-Tweaked row 3 PgUp legend.<br/>
-Tweaked row 4 wide Shift legends.<br/>
+Added extra large icons: <em>Enter</em> (row 3), <em>Tab</em> (row 2), and <em>Shift</em> (row 4) legends.<br/>
+Added Row 1 <em>Equals</em> legend.<br/>
+Tweaked row 3 <em>PgUp</em> legend.<br/>
+Tweaked row 4 wide <em>Shift</em> legends.<br/>
 
 
 #### October 15th, 2021: ####
