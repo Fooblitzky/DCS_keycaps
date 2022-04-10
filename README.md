@@ -6,6 +6,13 @@ Blank DCS and Gorton Modified Legends (the most common) are available in STEP an
 
 ### Updates: ###
 
+#### April 9th, 2022: ####
+Added extra large icons: Enter (row 3), Tab (row 2), and Shift (row 4) legends.<br/>
+Added Row 1 Equals legend.<br/>
+Tweaked row 3 PgUp legend.<br/>
+Tweaked row 4 wide Shift legends.<br/>
+
+
 #### October 15th, 2021: ####
 Added a selection of Norde/International legend keycaps and some for 40% keyboards. 
 Added R1-R4 relegendable keycaps. (These are just approximate until I have samples on hand).
