@@ -6,6 +6,9 @@ Blank DCS and Gorton Modified Legends (the most common) are available in STEP an
 
 ### Updates: ###
 
+#### July 2nd, 2022: ####
+Tweaked Row 2 through 4 alphas.
+
 #### April 30th, 2022: ####
 Row 1: Added short 2u <em>Backspace</em> icon<br/>
 Row 2: Added short 1.5u and 1.75u <em>Backspace</em> icons<br/>
