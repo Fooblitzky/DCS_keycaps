@@ -11,14 +11,14 @@ Tweaked Row 2 through 4 alphas.
 
 
 #### February 10th, 2023: ####
-Row 1: <em>Backspace</em> icon arrow only<br/>
-Row 2: <em>ISO</em> icon arrow only small, <em>ISO</em> icon arrow only large<br/>
-Row 3: <em>Enter</em> icon arrow only small, <em>Enter</em> icon arrow only large, small <em>Quotes</em><br/>
-Row 4: <em>Numpad Enter</em> icon arrow only, <em>Numpad Enter</em> icon arrow only large<br/>
+Row 1: Added <em>Backspace</em> icon arrow only<br/>
+Row 2: Added <em>ISO</em> icon arrow only small, <em>ISO</em> icon arrow only large<br/>
+Row 3: Added <em>Enter</em> icon arrow only small, <em>Enter</em> icon arrow only large, small <em>Quotes</em><br/>
+Row 4: Added <em>Numpad Enter</em> icon arrow only, <em>Numpad Enter</em> icon arrow only large<br/>
 
 #### April 30th, 2022: ####
-Row 1: Added short 2u <em>Backspace</em> icon<br/>
-Row 2: Added short 1.5u and 1.75u <em>Backspace</em> icons<br/>
+Row 1: Added 2u <em>Backspace</em> short icon<br/>
+Row 2: Added 1.5u and 1.75u <em>Backspace</em> short icons<br/>
 Row 3: Added Icon+Text <em>Capslock</em>, narrow lock icons, tweaked wide icons; 1.75u normal and stepped. <br/>
 Row 4: Added <em>Windows Menu</em> icon, <em>Windows</em> icon, <em>star</em> icon, <em>diamond</em> icon; 1.25u and 1u versions.<br/>
 
