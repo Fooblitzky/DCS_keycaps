@@ -57,10 +57,10 @@ So far I have only provided the most popular keycap sizes per row. There are a f
 ### Available Keycap Legends Per Row: ###
 
 #### Row 1: ####
-![Row 1](https://github.com/Fooblitzky/DCS_keycaps/blob/master/images/DCS_Legends_Row_1.png)
+![Row 1](https://github.com/Fooblitzky/DCS_keycaps/blob/master/images/DCS_Legends_Row_1.jpg)
 #### Row 2: ####
-![Row 2](https://github.com/Fooblitzky/DCS_keycaps/blob/master/images/DCS_Legends_Row_2.png)
+![Row 2](https://github.com/Fooblitzky/DCS_keycaps/blob/master/images/DCS_Legends_Row_2.jpg)
 #### Row 3: ####
-![Row 3](https://github.com/Fooblitzky/DCS_keycaps/blob/master/images/DCS_Legends_Row_3.png)
+![Row 3](https://github.com/Fooblitzky/DCS_keycaps/blob/master/images/DCS_Legends_Row_3.jpg)
 #### Row 4: ####
-![Row 4](https://github.com/Fooblitzky/DCS_keycaps/blob/master/images/DCS_Legends_Row_4.png)
+![Row 4](https://github.com/Fooblitzky/DCS_keycaps/blob/master/images/DCS_Legends_Row_4.jpg)
